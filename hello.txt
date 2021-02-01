@@ -5,3 +5,6 @@ master hi
 dev i am angry hengheng  conflict hh
 
 feature i am new here   hhsdhgfhs
+
+
+feature it is hard 
